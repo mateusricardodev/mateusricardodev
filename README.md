@@ -61,8 +61,3 @@ Sou curioso, dedicado e apaixonado por aprendizado contínuo. Busco constantemen
 
 ---
 
-## 📫 Como me encontrar  
-- LinkedIn [(linkedin.com in Bing)](www.linkedin.com/in/mateus-ricardo)  
-- GitHub [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fmateusricardodev")  
-
----
