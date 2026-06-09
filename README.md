@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Me chamo Mateus Ricardo, tenho 17 anos e sou estudante do ensino médio técnico em informática. Atualmente atuo como estagiário em Análise de Dados e Automação de Processos, desenvolvendo sistemas internos e soluções inteligentes que unem prática profissional e aprendizado contínuo. Busco evolução em qualidade de código, organização e integração de tecnologias para gerar impacto real.</h4>
+<h4 align="left">Me chamo Mateus Ricardo, tenho 17 anos e sou estudante do ensino médio técnico em informática. Atualmente atuo como estagiário em Análise de Dados em Saúde. Busco evolução em qualidade de código, organização e integração de tecnologias para gerar impacto real.</h4>
 
 ###
 
@@ -21,39 +21,31 @@
 </div>
 
 ###
+<h2 align="center"></h2>
+<p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      alt="Tecnologias"
+      src="https://skillicons.dev/icons?i=cs,java,ts,kotlin,python,mysql,git,"
+    />
+  </a>
+</p>
+</p>
+</br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="39" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="39" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="39" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
+
 
 
 <div align="center">
   <img 
-    height="200" 
+    height="170" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusricardodev&show_icons=true&theme=dark&include_all_commits=true"
   />
   <img 
