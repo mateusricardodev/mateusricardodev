@@ -15,8 +15,8 @@ My interests include software development, databases, automation, data analysis 
 <br />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusricardodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mateus Ricardo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusricardodev&layout=compact&theme=tokyonight&hide_border=true" alt="Mateus Ricardo's top languages" />
+  <img height="165" src="https://readme-stats-mateus.vercel.app/api?username=mateusricardodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mateus Ricardo's GitHub stats" />
+  <img height="165" src="https://readme-stats-mateus.vercel.app/api/top-langs/?username=mateusricardodev&layout=compact&theme=tokyonight&hide_border=true" alt="Mateus Ricardo's top languages" />
 </p>
 
 ---
