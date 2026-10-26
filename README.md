@@ -1,89 +1,90 @@
-<h1 align="left">👨🏽‍💻 Mateus Ricardo</h1>
+# Hi, I'm Mateus Ricardo 👋
 
-<h4 align="left">Hi! My name is Mateus Ricardo, I'm 17 years old and a student of technical high school in Information Technology. Currently working as a Data & BI Analyst Intern in Healthcare. I seek continuous improvement in code quality, organization, and technology integration to create real-world impact.</h4>
+**Software Developer | Full-Stack Development | SQL, Python & Data**
 
-###
+I build web applications, REST APIs and data-driven solutions.
 
-<div align="center">
-  <a href="mailto:mateus.ricardo761919@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-ricardo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/mateusricardodev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-  </a>
-</div>
+My interests include software development, databases, automation, data analysis and business intelligence. I enjoy turning real-world problems into practical and reliable products.
 
-###
+- 🔭 Currently building **[Ecclesio](https://ecclesio.com.br/)**, an event registration, payment and QR check-in platform for churches and communities.
+- 💻 Working with React, TypeScript, NestJS, Node.js, PostgreSQL and Prisma.
+- 📊 Interested in SQL, Python, data analysis and BI.
+- 🌱 Always learning and improving my technical skills.
+- 🚀 I enjoy building complete products, from the interface to the API, database and deployment.
 
-<h2 align="center">🛠️ Technologies</h2>
+<br />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusricardodev&show_icons=true&theme=tokyonight&hide_border=true" alt="Mateus Ricardo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusricardodev&layout=compact&theme=tokyonight&hide_border=true" alt="Mateus Ricardo's top languages" />
+</p>
 
-###
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🧑‍💻 Technologies and tools
 
-**[Ecclesio — Event Management Platform](https://github.com/mateusricardodev/Event-Register)**
-Full-stack platform for event creation, registrations with PIX payments, and QR code check-in. Running in production with self-managed infrastructure.
-`NestJS` `TypeScript` `React` `PostgreSQL` `Prisma` `JWT`
+### Languages
 
-**[ORDENSIQ AI — Intelligent Work Order Prioritization](https://github.com/mateusricardodev/ordensiq-smart-prioritize)**
-Decision-support system that prioritizes maintenance work orders using business rules and Machine Learning, generating explainable scores from historical SAP data.
-`Python` `Scikit-learn` `XGBoost` `Pandas` `C#/.NET` `SQL Server`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**[TecnoValeGás ERP — Inventory & Project Management](https://github.com/cauaprs92/TCC-TecnoValeGas)**
-REST API in Python/Flask with MySQL for centralized control of inventory, clients, and projects, with automated stock deduction and KPI dashboard.
-`Python` `Flask` `MySQL` `SQL` `JavaScript` `JWT`
+### Frontend and backend
 
-**[Univap Fichas — Digital Academic Assessment](https://github.com/borgeizdev/univap-fichas)**
-Platform that digitizes group assessments by teachers, replacing paper forms and centralizing grades and feedback.
-`Node.js` `Express` `TypeScript` `PostgreSQL` `React` `Zod`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-###
+### Databases and data
 
-<h2 align="center">📊 Statistics</h2>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python Data Analysis](https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-nine-neon-70.vercel.app/api?username=mateusricardodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-nine-neon-70.vercel.app/api/top-langs/?username=mateusricardodev&layout=compact&theme=dark&include_all_commits=true" />
-</div>
+### Tools and infrastructure
 
-###
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusricardodev/mateusricardodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusricardodev/mateusricardodev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusricardodev/mateusricardodev/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-###
+## ⭐ Featured project
 
-<h2 align="center">✨ About Me</h2>
+### Ecclesio
 
-- 🎓 Technical High School Diploma in Information Technology, Colégio Univap (2024-2026)
-- 💼 Experience across 3 internships: AI & Automation, ERP & Data, Healthcare BI
-- 🔧 Building full-stack applications, ETL pipelines, and AI-powered systems
-- 🚀 Production projects with real users and self-managed deployment
-- 📚 Courses: Power BI, Spring Boot 3, AWS Cloud Practitioner, Claude Cowork
-- 🌐 English: B2 (Upper-Intermediate)
+An event management platform created to simplify registrations, payments and check-in for churches, ministries and communities.
+
+- Public event pages
+- Custom registration forms
+- PIX payments
+- Automatic payment confirmation
+- QR-code tickets
+- Mobile check-in
+- Volunteer team management
+- Organizer dashboard
+- PostgreSQL database
+- Google Sign-In
+- Production deployment with Nginx, PM2 and Ubuntu
+
+🔗 [Live application](https://ecclesio.com.br/)  
+📦 [View the repository](https://github.com/mateusricardodev/Ecclesio)
+
+---
+
+## 📫 Connect with me
+
+- GitHub: [@mateusricardodev](https://github.com/mateusricardodev)
+- Ecclesio: [ecclesio.com.br](https://ecclesio.com.br/)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
